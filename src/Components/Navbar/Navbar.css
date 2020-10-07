@@ -1,0 +1,9 @@
+.title {
+    /* font-family: monospace; */
+    flex-direction: row;
+    display: flex;
+    text-align: center; 
+    text-transform: uppercase;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 20px;
+}
